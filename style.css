@@ -89,7 +89,7 @@ a:hover {
     border: none;
     background: #1F51FF;
     box-shadow: 0 0 10px #1F51FF, 0 0 40px #1F51FF, 0 0 80px #1F51FF;
-    transition-delay: 1s;
+/*     transition-delay: 1s; */
 }
 
 a span {
